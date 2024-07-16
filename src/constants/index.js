@@ -4,9 +4,9 @@ import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = 
-`I am a passionate SWE with a knack for crafting robust and scalable web applications. As of right now with the experience ive gotten, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+`I am a passionate SWE with a knack for crafting robust and scalable web applications. As of right now with the experience i've gotten, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js. My goal is to leverage my expertise to create innovative solutions that drive exponential growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile SWE with a passion for creating efficient and user-friendly web applications. As of right now with the experience ive gotten, I have worked with a variety of technologies, including React, Next.js and Node.js. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, physically mentally etc, also exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile SWE with a passion for creating efficient and user-friendly web applications. As of right now with the experience i've gotten, I have worked with a variety of technologies, including React, Next.js and Node.js. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, physically mentally etc. As a hobby, i also run a youtube channel which i have managed to gain a total of two thousand plus subscribers while also exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
@@ -28,19 +28,13 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Task Management App",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A fully functional Task manager application/Website featuring user authentication. This application allows users to efficiently manage their tasks with secure login, responsive design, and a user-friendly interface.",
+    technologies: ["Angular,", "Node.js", "MongoDB"],
   },
-  {
-    title: "Task Management App",
-    image: project2,
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
-  },
+  
   {
     title: "Portfolio Website",
     image: project3,
