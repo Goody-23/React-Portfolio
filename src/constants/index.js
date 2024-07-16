@@ -29,7 +29,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "Task Management App",
-    image: project1,
+    image: project2,
     description:
       "A fully functional Task manager application/Website featuring user authentication. This application allows users to efficiently manage their tasks with secure login, responsive design, and a user-friendly interface.",
     technologies: ["Angular,", "Node.js", "MongoDB"],
