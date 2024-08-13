@@ -31,7 +31,7 @@ export const PROJECTS = [
     title: "Book Hub App",
     image: project1,
     description:
-      "A fully functional Task manager application/Website featuring user authentication. This application allows users to efficiently manage their tasks with secure login, responsive design, and a user-friendly interface.",
+      "a React JS-based web application that leverages the Open Library Search API to help users discover and explore books by title, author, or subject, providing detailed book information in a sleek and intuitive interface.",
     technologies: ["Angular,", "Node.js", "MongoDB"],
   },
   
