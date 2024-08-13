@@ -32,7 +32,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "a React JS-based web application that leverages the Open Library Search API to help users discover and explore books by title, author, or subject, providing detailed book information in a sleek and intuitive interface.",
-    technologies: ["Angular,", "Node.js", "MongoDB"],
+    technologies: ["React,", "CSS", "HTML", "Open Library API"],
   },
   
   {
