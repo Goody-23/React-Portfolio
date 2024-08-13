@@ -33,6 +33,7 @@ export const PROJECTS = [
     description:
       "a React JS-based web application that leverages the Open Library Search API to help users discover and explore books by title, author, or subject, providing detailed book information in a sleek and intuitive interface.",
     technologies: ["React,", "CSS", "HTML", "Open Library API"],
+
   },
   
   {
@@ -49,7 +50,7 @@ export const PROJECTS = [
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
   },
-];
+  ];
 
 export const CONTACT = {
   phoneNo: "267-298-0406 ",
