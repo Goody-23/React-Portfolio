@@ -10,11 +10,11 @@ export const ABOUT_TEXT = `I am a dedicated and versatile SWE with a passion for
 
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
+    year: "June 2024 - August 2024",
     role: "Software Engineering Apprentice",
     company: "Codepath.",
-    description: `Engaged in collaborative coding projects, applying data structures and algorithms to real-world scenarios and practical problems, enhancing ability to work effectively in a group setting`,
-    technologies: ["Javascript", "React.js", "Next.js"],
+    description: `Prepared for professional career through immersive workshops, tech-related speaker engagements/projects, and direct mentorship from Codepath employees and employees from sponsor companies`,
+    technologies: ["Leetcode", "NeetCode"],
   },
   {
     year: "Jan 2024 - April 2024",
@@ -44,11 +44,11 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
   },
   {
-    title: "Blogging Platform",
+    title: "CreepyCritics",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "Creepy Critics is a Halloween-themed costume voting platform where users can upload their costumes and cast votes on their favorite spooky, funny, or creative looks. The site features real-time voting, a leaderboard, and a community-driven approach to celebrating Halloween fashion.",
+    technologies: ["HTML", "CSS", "Firebase", "Node.js", "MongoDB"],
   },
   ];
 
